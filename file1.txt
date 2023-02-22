@@ -1,3 +1,5 @@
 
 "these is 1st text in file"
 
+adding new content to the file
+do see the csv file of stocks
